@@ -85,62 +85,6 @@
           "done": false,
           "note": "We didn't benchmark abstractions of the Glicko2 algorithm, so this was disqualified."
         }
-      },
-      {
-        "name": "",
-        "display": "",
-        "description": " ",
-        "link": "",
-        "author": {
-          "name": "",
-          "link": ""
-        },
-        "benchmarks": {
-          "done": true,
-          "note": null
-        }
-      },
-      {
-        "name": "",
-        "display": "",
-        "description": " ",
-        "link": "",
-        "author": {
-          "name": "",
-          "link": ""
-        },
-        "benchmarks": {
-          "done": true,
-          "note": null
-        }
-      },
-      {
-        "name": "",
-        "display": "",
-        "description": " ",
-        "link": "",
-        "author": {
-          "name": "",
-          "link": ""
-        },
-        "benchmarks": {
-          "done": true,
-          "note": null
-        }
-      },
-      {
-        "name": "",
-        "display": "",
-        "description": " ",
-        "link": "",
-        "author": {
-          "name": "",
-          "link": ""
-        },
-        "benchmarks": {
-          "done": true,
-          "note": null
-        }
       }
     ]
   }
