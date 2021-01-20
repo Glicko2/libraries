@@ -1,1 +1,141 @@
-{}
+{
+  "languages": {
+    "nodejs": {
+      "title": "NodeJS",
+      "install": [
+        "npm i {{package}}",
+        "yarn add {{package}}"
+      ]
+    }
+  },
+  "libraries": {
+    "nodejs": [
+      {
+        "name": "go-glicko",
+        "display": "Go Glicko",
+        "description": "A conversion of Aleksandr Zelenin's Go library to NodeJS ",
+        "link": "https://www.npmjs.com/package/go-glicko",
+        "author": {
+          "name": "Matthew H",
+          "link": "https://github.com/MatthewSH"
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      },
+      {
+        "name": "glicko2",
+        "display": "glicko2",
+        "description": "Glicko2 javascript implementation ",
+        "link": "https://www.npmjs.com/package/glicko2",
+        "author": {
+          "name": "mmai",
+          "link": "https://www.npmjs.com/~mmai"
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      },
+      {
+        "name": "glicko-two",
+        "display": "Glicko Two",
+        "description": "TypeScript implimentation of Glicko-2",
+        "link": "https://www.npmjs.com/package/glicko-two",
+        "author": {
+          "name": "reedd",
+          "link": "https://www.npmjs.com/~reedd"
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      },
+      {
+        "name": "glicko2-js",
+        "display": "Glicko2 JS",
+        "description": "Glicko2 JavaScript",
+        "link": "https://www.npmjs.com/package/glicko2-js",
+        "author": {
+          "name": "googlrr",
+          "link": "https://www.npmjs.com/~googlrr"
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      },
+      {
+        "name": "glicko2-composite-opponent",
+        "display": "Glicko2 Composite Opponent",
+        "description": "Abstract Glicko-2 to team games through the creation of a composite player.",
+        "link": "https://www.npmjs.com/package/glicko2-composite-opponent",
+        "author": {
+          "name": "kenan",
+          "link": "https://www.npmjs.com/~kenan"
+        },
+        "benchmarks": {
+          "done": false,
+          "note": "We didn't benchmark abstractions of the Glicko2 algorithm, so this was disqualified."
+        }
+      },
+      {
+        "name": "",
+        "display": "",
+        "description": " ",
+        "link": "",
+        "author": {
+          "name": "",
+          "link": ""
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      },
+      {
+        "name": "",
+        "display": "",
+        "description": " ",
+        "link": "",
+        "author": {
+          "name": "",
+          "link": ""
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      },
+      {
+        "name": "",
+        "display": "",
+        "description": " ",
+        "link": "",
+        "author": {
+          "name": "",
+          "link": ""
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      },
+      {
+        "name": "",
+        "display": "",
+        "description": " ",
+        "link": "",
+        "author": {
+          "name": "",
+          "link": ""
+        },
+        "benchmarks": {
+          "done": true,
+          "note": null
+        }
+      }
+    ]
+  }
+}
