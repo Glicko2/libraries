@@ -3,8 +3,14 @@
     "nodejs": {
       "title": "NodeJS",
       "install": [
-        "npm i {{package}}",
-        "yarn add {{package}}"
+        {
+          "title": "NPM",
+          "command": "npm i #package#"
+        },
+        {
+          "title": "Yarn",
+          "command": "yarn add #package#"
+        }
       ]
     }
   },
